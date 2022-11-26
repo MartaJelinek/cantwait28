@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "874777506772",
+    "project_id": "akwarium123",
+    "storage_bucket": "akwarium123.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874777506772:android:b8a4892004240ab58ddc41",
+        "android_client_info": {
+          "package_name": "com.martajelinek.cantwait28"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874777506772-jsom7d96p1he2q409p5n5n64e4foln0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDonRW5hVVgp_T89Mw2_jhLj4Acw0d6uJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874777506772-jsom7d96p1he2q409p5n5n64e4foln0c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "874777506772-jb2v7bsu3ud17o1u3sodfipv36v5t6lr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.martajelinek.cantwait28"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
